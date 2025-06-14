@@ -1,0 +1,18 @@
+# Ignora entornos virtuales
+venv/
+.venv/
+
+# Ignora archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora archivos de configuración de editores comunes
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignora archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
